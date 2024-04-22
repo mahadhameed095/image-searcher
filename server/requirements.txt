@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+deepface
+pillow
+ultralytics
+sqlmodel
+tf-keras
+scikit-learn
